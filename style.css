@@ -134,6 +134,10 @@ ul {
   margin: 20px 0;
 }
 
+li {
+  text-align: center;
+}
+
 .result-list {
   margin-top: 15px;
   color: #05df05;
